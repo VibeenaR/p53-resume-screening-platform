@@ -15,4 +15,4 @@ numpy==1.26.4
 fairlearn==0.10.0
 flask==3.0.0
 flask
-python-dotenv
+
