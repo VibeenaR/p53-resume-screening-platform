@@ -1,0 +1,12 @@
+{
+  "scriptFile": "__init__.py",
+  "bindings": [
+    {
+      "name": "myblob",
+      "type": "blobTrigger",
+      "direction": "in",
+      "path": "resumes/{name}",
+      "connection": "STORAGE_CONNECTION_STRING"
+    }
+  ]
+}

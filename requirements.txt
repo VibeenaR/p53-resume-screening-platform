@@ -1,0 +1,12 @@
+azure-functions
+azure-ai-formrecognizer==3.3.3
+azure-ai-textanalytics==5.3.0
+azure-storage-blob==12.19.0
+azure-communication-email==1.0.0
+pyodbc==5.1.0
+python-dotenv==1.0.0
+sentence-transformers==2.6.1
+scikit-learn==1.4.2
+pandas==2.2.2
+numpy==1.26.4
+fairlearn==0.10.0
