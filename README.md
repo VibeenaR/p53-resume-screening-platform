@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # P53 — AI-Powered Resume Screening & Recruitment Platform
 
 End-to-end pipeline: Resume (PDF/DOCX) → Parse → Extract Skills → Score/Rank → Store → Notify.
@@ -137,3 +138,6 @@ See `ml/bias_check.py`. Uses Fairlearn to check score disparity across name-infe
 6. Wire Phases 1→2→3→4 together inside the Azure Function (`orchestrator` folder)
 7. Add Phase 6 notifications last, once the pipeline works end-to-end
 8. Build the React dashboard last, pointed at your SQL data via a simple API layer
+=======
+# Microsoft-Azure
+>>>>>>> d6800d9e08fc083e452935158016861bf8af93b0
