@@ -21,7 +21,7 @@ from send_notification import send_status_email
 
 # Initialize Flask App
 app = Flask(__name__)
-UPLOAD_FOLDER = "uploads"
+UPLOAD_FOLDER = "/tmp/uploads"
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 
 # Configuration Constants
